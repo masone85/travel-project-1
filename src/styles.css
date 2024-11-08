@@ -5,3 +5,7 @@ h1 {
   font-size: 96px;
   line-height: 144px;
 }
+
+h4 {
+  text-align: end;
+}
